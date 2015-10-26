@@ -1,0 +1,17 @@
+{
+  "name": "blinky",
+  "version": "0.0.1",
+  "description": "LED chikachika",
+  "keywords": [],
+  "author": "mia-0032",
+  "repository": {
+    "url": "git@github.com:mia-0032/mbed-os-blinky.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/mia-0032/mbed-os-blinky",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "~0.10.3"
+  },
+  "bin": "./source"
+}
